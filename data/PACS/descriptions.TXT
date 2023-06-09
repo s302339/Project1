@@ -1,5 +1,5 @@
 0
-Project1/data/PACS/kfold/art_painting/house/pic_272.jpg
+art_painting/house/pic_272.jpg
 Level of details: high
 Edges: defined brushstrokes
 Color saturation: high, vivid colors
@@ -10,7 +10,7 @@ Text: no
 Texture: granular painting
 Perspective: realistic
 1
-Project1/data/PACS/kfold/art_painting/house/pic_078.jpg
+art_painting/house/pic_078.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -21,7 +21,7 @@ Text: no
 Texture: white dots like snow
 Perspective: unrealistic
 2
-Project1/data/PACS/kfold/art_painting/giraffe/pic_035.jpg
+art_painting/giraffe/pic_035.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -32,7 +32,7 @@ Text: yes, centered
 Texture: visible brushstrokes
 Perspective: realistic
 3
-Project1/data/PACS/kfold/art_painting/elephant/pic_091.jpg
+art_painting/elephant/pic_091.jpg
 Level of details: mid
 Edges: blurred edges
 Color saturation: mid
@@ -43,7 +43,7 @@ Text: no
 Texture: blended painting
 Perspective: realistic
 4
-Project1/data/PACS/kfold/art_painting/elephant/pic_168.jpg
+art_painting/elephant/pic_168.jpg
 Level of details: mid
 Edges: definite
 Color saturation: high
@@ -54,7 +54,7 @@ Text: yes, at the top, in the center and at the bottom of the image
 Texture: visible brushstrokes
 Perspective: realistic
 5
-Project1/data/PACS/kfold/art_painting/horse/pic_011.jpg
+art_painting/horse/pic_011.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -65,7 +65,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 6
-Project1/data/PACS/kfold/art_painting/giraffe/pic_007.jpg
+art_painting/giraffe/pic_007.jpg
 Level of details: mid
 Edges: definite, colored
 Color saturation: mid
@@ -76,7 +76,7 @@ Text: yes, black at the bottom-left
 Texture: no
 Perspective: realistic
 7
-Project1/data/PACS/kfold/art_painting/giraffe/pic_291.jpg
+art_painting/giraffe/pic_291.jpg
 Level of details: low
 Edges: not so definite
 Color saturation: high
@@ -87,7 +87,7 @@ Text: yes, date at the bottom-left
 Texture: child painting
 Perspective: unrealistic
 8
-Project1/data/PACS/kfold/art_painting/elephant/pic_036.jpg
+art_painting/elephant/pic_036.jpg
 Level of details: mid
 Edges: definite
 Color saturation: high
@@ -98,7 +98,7 @@ Text: yes, signature at the bottom-left
 Texture: rounded geometric shapes
 Perspective: realistic
 9
-Project1/data/PACS/kfold/art_painting/horse/pic_174.jpg
+art_painting/horse/pic_174.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: low
@@ -109,7 +109,7 @@ Text: yes, small at bottom-left and bottom-right
 Texture: painting sketch
 Perspective: realistic
 10
-Project1/data/PACS/kfold/art_painting/dog/pic_365.jpg
+art_painting/dog/pic_365.jpg
 Level of details: high
 Edges: mid-definite
 Color saturation: low
@@ -120,7 +120,7 @@ Text: yes, signature at bottom-right
 Texture: painting
 Perspective: realistic
 11
-Project1/data/PACS/kfold/art_painting/giraffe/pic_254.jpg
+art_painting/giraffe/pic_254.jpg
 Level of details: mid
 Edges: definite
 Color saturation: high
@@ -131,7 +131,7 @@ Text: no
 Texture: painting
 Perspective: not so much realistic
 12
-Project1/data/PACS/kfold/art_painting/horse/pic_189.jpg
+art_painting/horse/pic_189.jpg
 Level of details: high
 Edges: definite
 Color saturation: low
@@ -142,7 +142,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 13
-Project1/data/PACS/kfold/art_painting/horse/pic_142.jpg
+art_painting/horse/pic_142.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: high
@@ -153,7 +153,7 @@ Text: no
 Texture: visible brushstrokes
 Perspective: realistic
 14
-Project1/data/PACS/kfold/art_painting/giraffe/pic_043.jpg
+art_painting/giraffe/pic_043.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -164,7 +164,7 @@ Text: no
 Texture: splatters
 Perspective: realistic
 15
-Project1/data/PACS/kfold/art_painting/giraffe/pic_096.jpg
+art_painting/giraffe/pic_096.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -175,7 +175,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 16
-Project1/data/PACS/kfold/art_painting/guitar/pic_138.jpg
+art_painting/guitar/pic_138.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -186,7 +186,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 17
-Project1/data/PACS/kfold/art_painting/person/pic_328.jpg
+art_painting/person/pic_328.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -197,7 +197,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 18
-Project1/data/PACS/kfold/art_painting/horse/pic_101.jpg
+art_painting/horse/pic_101.jpg
 Level of details: high
 Edges: definite and blurred
 Color saturation: low
@@ -208,7 +208,7 @@ Text: yes, signature at bottom-left and a text at bottom-right
 Texture: painting
 Perspective: realistic
 19
-Project1/data/PACS/kfold/art_painting/house/pic_216.jpg
+art_painting/house/pic_216.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: mid
@@ -219,7 +219,7 @@ Text: yes, signature at bottom-right
 Texture: painting
 Perspective: realistic
 20
-Project1/data/PACS/kfold/art_painting/person/pic_568.jpg
+art_painting/person/pic_568.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -230,7 +230,7 @@ Text: yes, white and big at bottom-right
 Texture: painting
 Perspective: realistic
 21
-Project1/data/PACS/kfold/art_painting/house/pic_067.jpg
+art_painting/house/pic_067.jpg
 Level of details: high
 Edges: definite
 Color saturation: high, light reflections
@@ -241,7 +241,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 22
-Project1/data/PACS/kfold/art_painting/house/pic_119.jpg
+art_painting/house/pic_119.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -252,7 +252,7 @@ Text: no
 Texture: white dots like snow
 Perspective: unrealistic
 23
-Project1/data/PACS/kfold/art_painting/dog/pic_055.jpg
+art_painting/dog/pic_055.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -263,7 +263,7 @@ Text: yes, signature at bottom-right
 Texture: painting
 Perspective: realistic
 24
-Project1/data/PACS/kfold/art_painting/person/pic_330.jpg
+art_painting/person/pic_330.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -274,7 +274,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 25
-Project1/data/PACS/kfold/art_painting/dog/pic_096.jpg
+art_painting/dog/pic_096.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: low
@@ -285,7 +285,7 @@ Text: yes, black signature at bottom-right
 Texture: painting
 Perspective: realistic
 26
-Project1/data/PACS/kfold/art_painting/elephant/pic_019.jpg
+art_painting/elephant/pic_019.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -296,7 +296,7 @@ Text: no
 Texture: splatters
 Perspective: realistic
 27
-Project1/data/PACS/kfold/art_painting/giraffe/pic_021.jpg
+art_painting/giraffe/pic_021.jpg
 Level of details: mid
 Edges: definite
 Color saturation: high
@@ -307,7 +307,7 @@ Text: no
 Texture: visible brushstrokes
 Perspective: realistic
 28
-Project1/data/PACS/kfold/art_painting/dog/pic_329.jpg
+art_painting/dog/pic_329.jpg
 Level of details: high
 Edges: definite
 Color saturation: high
@@ -318,7 +318,7 @@ Text: no
 Texture: little geometric shapes
 Perspective: realistic
 29
-Project1/data/PACS/kfold/art_painting/elephant/pic_167.jpg
+art_painting/elephant/pic_167.jpg
 Level of details: high
 Edges: definite
 Color saturation: high
@@ -329,7 +329,7 @@ Text: no
 Texture: geometric brushstrokes
 Perspective: realistic
 30
-Project1/data/PACS/kfold/art_painting/house/pic_313.jpg
+art_painting/house/pic_313.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -340,7 +340,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 31
-Project1/data/PACS/kfold/art_painting/elephant/pic_092.jpg
+art_painting/elephant/pic_092.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -351,7 +351,7 @@ Text: yes, green at top-left
 Texture: splatters
 Perspective: realistic
 32
-Project1/data/PACS/kfold/art_painting/person/pic_048.jpg
+art_painting/person/pic_048.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: low
@@ -362,7 +362,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 33
-Project1/data/PACS/kfold/art_painting/giraffe/pic_217.jpg
+art_painting/giraffe/pic_217.jpg
 Level of details: mid
 Edges: undefinite
 Color saturation: mid
@@ -373,7 +373,7 @@ Text: no
 Texture: geometric shape
 Perspective: realistic
 34
-Project1/data/PACS/kfold/art_painting/giraffe/pic_108.jpg
+art_painting/giraffe/pic_108.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: mid
@@ -384,7 +384,7 @@ Text: no
 Texture: visible brushstrokes
 Perspective: unrealistic
 35
-Project1/data/PACS/kfold/art_painting/dog/pic_229.jpg
+art_painting/dog/pic_229.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -395,7 +395,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 36
-Project1/data/PACS/kfold/art_painting/elephant/pic_068.jpg
+art_painting/elephant/pic_068.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -406,7 +406,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 37
-Project1/data/PACS/kfold/art_painting/person/pic_169.jpg
+art_painting/person/pic_169.jpg
 Level of details: high
 Edges: definite
 Color saturation: low
@@ -417,7 +417,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 38
-Project1/data/PACS/kfold/art_painting/elephant/pic_115.jpg
+art_painting/elephant/pic_115.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -428,7 +428,7 @@ Text: yes, black at top-left
 Texture: splatters
 Perspective: realistic
 39
-Project1/data/PACS/kfold/art_painting/person/pic_004.jpg
+art_painting/person/pic_004.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -439,7 +439,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 40
-Project1/data/PACS/kfold/art_painting/house/pic_222.jpg
+art_painting/house/pic_222.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: mid
@@ -450,7 +450,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 41
-Project1/data/PACS/kfold/art_painting/dog/pic_374.jpg
+art_painting/dog/pic_374.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -461,7 +461,7 @@ Text: yes, black at the bottom-right
 Texture: painting
 Perspective: realistic
 42
-Project1/data/PACS/kfold/art_painting/house/pic_017.jpg
+art_painting/house/pic_017.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: high
@@ -472,7 +472,7 @@ Text: no
 Texture: visible brushstrokes
 Perspective: realistic
 43
-Project1/data/PACS/kfold/art_painting/guitar/pic_199.jpg
+art_painting/guitar/pic_199.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: mid
@@ -483,7 +483,7 @@ Text: no
 Texture: painting
 Perspective: unrealistic
 44
-Project1/data/PACS/kfold/art_painting/elephant/pic_003.jpg
+art_painting/elephant/pic_003.jpg
 Level of details: mid
 Edges: undefinite
 Color saturation: high
@@ -494,7 +494,7 @@ Text: no
 Texture: splatters
 Perspective: unrealistic
 45
-Project1/data/PACS/kfold/art_painting/guitar/pic_083.jpg
+art_painting/guitar/pic_083.jpg
 Level of details: mid
 Edges: definite
 Color saturation: low
@@ -505,7 +505,7 @@ Text: yes, littel signature at bottom-left
 Texture: no
 Perspective: realistic
 46
-Project1/data/PACS/kfold/art_painting/guitar/pic_022.jpg
+art_painting/guitar/pic_022.jpg
 Level of details: mid
 Edges: undefinite
 Color saturation: high
@@ -516,7 +516,7 @@ Text: no
 Texture: splatters and visibile brushstrokes
 Perspective: realistic
 47
-Project1/data/PACS/kfold/art_painting/house/pic_022.jpg
+art_painting/house/pic_022.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -527,7 +527,7 @@ Text: no
 Texture: geometric shape
 Perspective: unrealistic
 48
-Project1/data/PACS/kfold/art_painting/giraffe/pic_132.jpg
+art_painting/giraffe/pic_132.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -538,7 +538,7 @@ Text: yes, signature at bottom right
 Texture: painting
 Perspective: not so realistic
 49
-Project1/data/PACS/kfold/art_painting/person/pic_266.jpg
+art_painting/person/pic_266.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: low
@@ -549,7 +549,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 50
-Project1/data/PACS/kfold/art_painting/person/pic_430.jpg
+art_painting/person/pic_430.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: high
@@ -560,7 +560,7 @@ Text: no
 Texture: granular painting
 Perspective: realistic
 51
-Project1/data/PACS/kfold/art_painting/elephant/pic_057.jpg
+art_painting/elephant/pic_057.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -571,7 +571,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 52
-Project1/data/PACS/kfold/art_painting/person/pic_352.jpg
+art_painting/person/pic_352.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: low
@@ -582,7 +582,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 53
-Project1/data/PACS/kfold/art_painting/elephant/pic_166.jpg
+art_painting/elephant/pic_166.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: mid
@@ -593,7 +593,7 @@ Text: no
 Texture: granular painting
 Perspective: unrealistic
 54
-Project1/data/PACS/kfold/art_painting/elephant/pic_007.jpg
+art_painting/elephant/pic_007.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: high
@@ -604,7 +604,7 @@ Text: no
 Texture: painting and splatters
 Perspective: realistic
 55
-Project1/data/PACS/kfold/art_painting/house/pic_042.jpg
+art_painting/house/pic_042.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -615,7 +615,7 @@ Text: yes, at the bottom-right
 Texture: painting
 Perspective: realistic
 56
-Project1/data/PACS/kfold/art_painting/dog/pic_348.jpg
+art_painting/dog/pic_348.jpg
 Level of details: mid
 Edges: definite
 Color saturation: high
@@ -626,7 +626,7 @@ Text: no
 Texture: visibile brushstrokes
 Perspective: realistic
 57
-Project1/data/PACS/kfold/art_painting/dog/pic_269.jpg
+art_painting/dog/pic_269.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -637,7 +637,7 @@ Text: yes a signature
 Texture: drawn in pencil
 Perspective: realistic
 58
-Project1/data/PACS/kfold/art_painting/person/pic_311.jpg
+art_painting/person/pic_311.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -648,7 +648,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 59
-Project1/data/PACS/kfold/art_painting/person/pic_350.jpg
+art_painting/person/pic_350.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: mid
@@ -659,7 +659,7 @@ Text: no
 Texture: visibile brushstrokes and geometric shapes
 Perspective: realistic
 60
-Project1/data/PACS/kfold/art_painting/horse/pic_154.jpg
+art_painting/horse/pic_154.jpg
 Level of details: low
 Edges: definite
 Color saturation: low
@@ -670,7 +670,7 @@ Text: yes, signature at bottom-right
 Texture: granular painting
 Perspective: unrealistic
 61
-Project1/data/PACS/kfold/art_painting/person/pic_213.jpg
+art_painting/person/pic_213.jpg
 Level of details: high
 Edges: definite
 Color saturation: high
@@ -681,7 +681,7 @@ Text: no
 Texture: visible brushstrokes
 Perspective: realistic
 62
-Project1/data/PACS/kfold/art_painting/person/pic_218.jpg
+art_painting/person/pic_218.jpg
 Level of details: low
 Edges: not so definite
 Color saturation: mid
@@ -692,7 +692,7 @@ Text: no
 Texture: geometric shapes
 Perspective: realistic
 63
-Project1/data/PACS/kfold/art_painting/giraffe/pic_158.jpg
+art_painting/giraffe/pic_158.jpg
 Level of details: low
 Edges: definite
 Color saturation: low
@@ -703,7 +703,7 @@ Text: yes
 Texture: child painting
 Perspective: unrealistic
 64
-Project1/data/PACS/kfold/art_painting/house/pic_301.jpg
+art_painting/house/pic_301.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: mid
@@ -714,7 +714,7 @@ Text: yes at bottom
 Texture: watercolor
 Perspective: realistic
 65
-Project1/data/PACS/kfold/art_painting/guitar/pic_179.jpg
+art_painting/guitar/pic_179.jpg
 Level of details: mid
 Edges: definite
 Color saturation: low
@@ -725,7 +725,7 @@ Text: yes, numbers at the top and left
 Texture: painting
 Perspective: realistic
 66
-Project1/data/PACS/kfold/art_painting/dog/pic_293.jpg
+art_painting/dog/pic_293.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -736,7 +736,7 @@ Text: no
 Texture: watercolor
 Perspective: realistic
 67
-Project1/data/PACS/kfold/art_painting/person/pic_523.jpg
+art_painting/person/pic_523.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: low
@@ -747,17 +747,18 @@ Text: no
 Texture: painting
 Perspective: realistic
 68
-Project1/data/PACS/kfold/art_painting/house/pic_153.jpg
+art_painting/house/pic_153.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
 Color shades: colored
 Background: colorful
 Single instance: yes
+Text: no
 Texture: painting
 Perspective: realistic
 69
-Project1/data/PACS/kfold/art_painting/giraffe/pic_104.jpg
+art_painting/giraffe/pic_104.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -768,7 +769,7 @@ Text: no
 Texture: splatters painting
 Perspective: realistic
 70
-Project1/data/PACS/kfold/art_painting/elephant/pic_054.jpg
+art_painting/elephant/pic_054.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -779,7 +780,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 71
-Project1/data/PACS/kfold/art_painting/guitar/pic_063.jpg
+art_painting/guitar/pic_063.jpg
 Level of details: mid
 Edges: definite
 Color saturation: low
@@ -790,7 +791,7 @@ Text: no
 Texture: geometric painting
 Perspective: realistic
 72
-Project1/data/PACS/kfold/art_painting/house/pic_162.jpg
+art_painting/house/pic_162.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -801,7 +802,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 73
-Project1/data/PACS/kfold/art_painting/person/pic_476.jpg
+art_painting/person/pic_476.jpg
 Level of details: low
 Edges: undefinite
 Color saturation: low
@@ -812,7 +813,7 @@ Text: yes at bottom
 Texture: splatters painting
 Perspective: realistic
 74
-Project1/data/PACS/kfold/art_painting/person/pic_465.jpg
+art_painting/person/pic_465.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: high
@@ -823,7 +824,7 @@ Text: yes, signature at top
 Texture: big visible brushstrokes
 Perspective: not so realistic
 75
-Project1/data/PACS/kfold/art_painting/house/pic_198.jpg
+art_painting/house/pic_198.jpg
 Level of details: mid
 Edges: not so definite
 Color saturation: mid
@@ -834,7 +835,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 76
-Project1/data/PACS/kfold/art_painting/guitar/pic_161.jpg
+art_painting/guitar/pic_161.jpg
 Level of details: high
 Edges: definite
 Color saturation: mid
@@ -845,7 +846,7 @@ Text: no
 Texture: no
 Perspective: realistic
 77
-Project1/data/PACS/kfold/art_painting/elephant/pic_132.jpg
+art_painting/elephant/pic_132.jpg
 Level of details: mid
 Edges: definite
 Color saturation: mid
@@ -856,7 +857,7 @@ Text: no
 Texture: drawn in pencil and splatters paintings
 Perspective: realistic
 78
-Project1/data/PACS/kfold/art_painting/person/pic_027.jpg
+art_painting/person/pic_027.jpg
 Level of details: high
 Edges: definite
 Color saturation: high
@@ -867,7 +868,7 @@ Text: no
 Texture: visibile brushstrokes
 Perspective: realistic
 79
-Project1/data/PACS/kfold/art_painting/person/pic_134.jpg
+art_painting/person/pic_134.jpg
 Level of details: high
 Edges: not so definite
 Color saturation: low
@@ -878,7 +879,7 @@ Text: no
 Texture: painting
 Perspective: realistic
 80
-Project1/data/PACS/kfold/cartoon/horse/pic_187.jpg
+cartoon/horse/pic_187.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -889,7 +890,7 @@ Text: no
 Texture: no
 Perspective: realistic
 81
-Project1/data/PACS/kfold/cartoon/elephant/pic_455.jpg
+cartoon/elephant/pic_455.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -900,7 +901,7 @@ Text: yes in the middle and at bottom
 Texture: no
 Perspective: realistic
 82
-Project1/data/PACS/kfold/cartoon/giraffe/pic_136.jpg
+cartoon/giraffe/pic_136.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -911,7 +912,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 83
-Project1/data/PACS/kfold/cartoon/horse/pic_317.jpg
+cartoon/horse/pic_317.jpg
 Level of details: low
 Edges: neat
 Color saturation: mid-high
@@ -922,7 +923,7 @@ Text: yes, at the center and bottom
 Texture: no
 Perspective: unrealistic
 84
-Project1/data/PACS/kfold/cartoon/person/pic_004.jpg
+cartoon/person/pic_004.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -933,7 +934,7 @@ Text: yes, at bottom and middle
 Texture: no
 Perspective: unrealistic
 85
-Project1/data/PACS/kfold/cartoon/dog/pic_332.jpg
+cartoon/dog/pic_332.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -944,7 +945,7 @@ Text: yes, at the left
 Texture: no
 Perspective: realistic
 86
-Project1/data/PACS/kfold/cartoon/elephant/pic_253.jpg
+cartoon/elephant/pic_253.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -955,7 +956,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 87
-Project1/data/PACS/kfold/cartoon/elephant/pic_180.jpg
+cartoon/elephant/pic_180.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -966,7 +967,7 @@ Text: no
 Texture: no
 Perspective: realistic
 88
-Project1/data/PACS/kfold/cartoon/house/pic_107.jpg
+cartoon/house/pic_107.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -977,7 +978,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 89
-Project1/data/PACS/kfold/cartoon/giraffe/pic_368.jpg
+cartoon/giraffe/pic_368.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -988,7 +989,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 90
-Project1/data/PACS/kfold/cartoon/horse/pic_304.jpg
+cartoon/horse/pic_304.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -999,7 +1000,7 @@ Text: no
 Texture: no
 Perspective: realistic
 91
-Project1/data/PACS/kfold/cartoon/house/pic_143.jpg
+cartoon/house/pic_143.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1010,7 +1011,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: realistic
 92
-Project1/data/PACS/kfold/cartoon/dog/pic_395.jpg
+cartoon/dog/pic_395.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1021,7 +1022,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 93
-Project1/data/PACS/kfold/cartoon/elephant/pic_306.jpg
+cartoon/elephant/pic_306.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1032,7 +1033,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 94
-Project1/data/PACS/kfold/cartoon/horse/pic_311.jpg
+cartoon/horse/pic_311.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1043,7 +1044,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: realistic
 95
-Project1/data/PACS/kfold/cartoon/giraffe/pic_101.jpg
+cartoon/giraffe/pic_101.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1054,7 +1055,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 96
-Project1/data/PACS/kfold/cartoon/horse/pic_198.jpg
+cartoon/horse/pic_198.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1065,7 +1066,7 @@ Text: yes, transparent at the middle and bottom
 Texture: no
 Perspective: realistic
 97
-Project1/data/PACS/kfold/cartoon/elephant/pic_384.jpg
+cartoon/elephant/pic_384.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1076,7 +1077,7 @@ Text: no
 Texture: no
 Perspective: realistic
 98
-Project1/data/PACS/kfold/cartoon/giraffe/pic_225.jpg
+cartoon/giraffe/pic_225.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1087,7 +1088,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 99
-Project1/data/PACS/kfold/cartoon/dog/pic_013.jpg
+cartoon/dog/pic_013.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1098,7 +1099,7 @@ Text: no
 Texture: no
 Perspective: realistic
 100
-Project1/data/PACS/kfold/cartoon/person/pic_280.jpg
+cartoon/person/pic_280.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1109,7 +1110,7 @@ Text: yes, at the middle and bottom
 Texture: no
 Perspective: realistic
 101
-Project1/data/PACS/kfold/cartoon/dog/pic_173.jpg
+cartoon/dog/pic_173.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1120,7 +1121,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 102
-Project1/data/PACS/kfold/cartoon/giraffe/pic_097.jpg
+cartoon/giraffe/pic_097.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1131,7 +1132,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 103
-Project1/data/PACS/kfold/cartoon/house/pic_283.jpg
+cartoon/house/pic_283.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1142,7 +1143,7 @@ Text: yes, trasparent at the middle and bottom
 Texture: no
 Perspective: realistic
 104
-Project1/data/PACS/kfold/cartoon/person/pic_073.jpg
+cartoon/person/pic_073.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1153,7 +1154,7 @@ Text: no
 Texture: no
 Perspective: realistic
 105
-Project1/data/PACS/kfold/cartoon/horse/pic_212.jpg
+cartoon/horse/pic_212.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1164,7 +1165,7 @@ Text: no
 Texture: no
 Perspective: realistic
 106
-Project1/data/PACS/kfold/cartoon/house/pic_094.jpg
+cartoon/house/pic_094.jpg
 Level of details: mid
 Edges: defined
 Color saturation: high
@@ -1175,7 +1176,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 107
-Project1/data/PACS/kfold/cartoon/person/pic_370.jpg
+cartoon/person/pic_370.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1186,7 +1187,7 @@ Text: yes, at the bottom
 Texture: no
 Perspective: unrealistic
 108
-Project1/data/PACS/kfold/cartoon/person/pic_119.jpg
+cartoon/person/pic_119.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1197,7 +1198,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 109
-Project1/data/PACS/kfold/cartoon/house/pic_004.jpg
+cartoon/house/pic_004.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1208,7 +1209,7 @@ Text: no
 Texture: no
 Perspective: realistic
 110
-Project1/data/PACS/kfold/cartoon/horse/pic_330.jpg
+cartoon/horse/pic_330.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1219,7 +1220,7 @@ Text: yes, like a comic book
 Texture: no
 Perspective: unrealistic
 111
-Project1/data/PACS/kfold/cartoon/dog/pic_361.jpg
+cartoon/dog/pic_361.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1230,7 +1231,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 112
-Project1/data/PACS/kfold/cartoon/giraffe/pic_026.jpg
+cartoon/giraffe/pic_026.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1241,7 +1242,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 113
-Project1/data/PACS/kfold/cartoon/giraffe/pic_347.jpg
+cartoon/giraffe/pic_347.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1252,7 +1253,7 @@ Text: yes, at bottom
 Texture: no
 Perspective: unrealistic
 114
-Project1/data/PACS/kfold/cartoon/house/pic_291.jpg
+cartoon/house/pic_291.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1263,7 +1264,7 @@ Text: no
 Texture: no
 Perspective: realistic
 115
-Project1/data/PACS/kfold/cartoon/elephant/pic_184.jpg
+cartoon/elephant/pic_184.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1274,7 +1275,7 @@ Text: yes, transparent at bottom
 Texture: no
 Perspective: unrealistic
 116
-Project1/data/PACS/kfold/cartoon/elephant/pic_020.jpg
+cartoon/elephant/pic_020.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1285,7 +1286,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 117
-Project1/data/PACS/kfold/cartoon/giraffe/pic_355.jpg
+cartoon/giraffe/pic_355.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1296,7 +1297,7 @@ Text: transparent all over the image
 Texture: no
 Perspective: unrealistic
 118
-Project1/data/PACS/kfold/cartoon/dog/pic_183.jpg
+cartoon/dog/pic_183.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1307,7 +1308,7 @@ Text:yes, transparent at the middle
 Texture: no
 Perspective: unrealistic
 119
-Project1/data/PACS/kfold/cartoon/person/pic_458.jpg
+cartoon/person/pic_458.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1318,7 +1319,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: unrealistic
 120
-Project1/data/PACS/kfold/cartoon/elephant/pic_064.jpg
+cartoon/elephant/pic_064.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1329,7 +1330,7 @@ Text: yes, middle and bottom
 Texture: no
 Perspective: unrealistic
 121
-Project1/data/PACS/kfold/cartoon/dog/pic_405.jpg
+cartoon/dog/pic_405.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1340,7 +1341,7 @@ Text: no
 Texture: no
 Perspective: realistic
 122
-Project1/data/PACS/kfold/cartoon/giraffe/pic_301.jpg
+cartoon/giraffe/pic_301.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1351,7 +1352,7 @@ Text: trasparent at middle
 Texture: no
 Perspective: unrealistic
 123
-Project1/data/PACS/kfold/cartoon/horse/pic_058.jpg
+cartoon/horse/pic_058.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1362,7 +1363,7 @@ Text: yes, bottom
 Texture: no
 Perspective: realistic
 124
-Project1/data/PACS/kfold/cartoon/dog/pic_014.jpg
+cartoon/dog/pic_014.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1373,7 +1374,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 125
-Project1/data/PACS/kfold/cartoon/elephant/pic_097.jpg
+cartoon/elephant/pic_097.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1384,7 +1385,7 @@ Text: no
 Texture: no
 Perspective: realistic
 126
-Project1/data/PACS/kfold/cartoon/dog/pic_028.jpg
+cartoon/dog/pic_028.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1395,7 +1396,7 @@ Text: no
 Texture: no
 Perspective: realistic
 127
-Project1/data/PACS/kfold/cartoon/giraffe/pic_244.jpg
+cartoon/giraffe/pic_244.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1406,7 +1407,7 @@ Text: no
 Texture: frames
 Perspective: realistic
 128
-Project1/data/PACS/kfold/cartoon/dog/pic_206.jpg
+cartoon/dog/pic_206.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1417,7 +1418,7 @@ Text: yes, trasparent in the middle
 Texture: no
 Perspective: unrealistic
 129
-Project1/data/PACS/kfold/cartoon/horse/pic_127.jpg
+cartoon/horse/pic_127.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1428,7 +1429,7 @@ Text: no
 Texture: no
 Perspective: realistic
 130
-Project1/data/PACS/kfold/cartoon/person/pic_286.jpg
+cartoon/person/pic_286.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid
@@ -1439,7 +1440,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 131
-Project1/data/PACS/kfold/cartoon/guitar/pic_038.jpg
+cartoon/guitar/pic_038.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1450,7 +1451,7 @@ Text: yes, transparent in the middle and botton
 Texture: no
 Perspective: realistic
 132
-Project1/data/PACS/kfold/cartoon/house/pic_157.jpg
+cartoon/house/pic_157.jpg
 Level of details: high
 Edges: defined
 Color saturation: high
@@ -1461,7 +1462,7 @@ Text: no
 Texture: no
 Perspective: realistic
 133
-Project1/data/PACS/kfold/cartoon/elephant/pic_278.jpg
+cartoon/elephant/pic_278.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1472,7 +1473,7 @@ Text: yes, big gray at bottom
 Texture: no
 Perspective: unrealistic
 134
-Project1/data/PACS/kfold/cartoon/elephant/pic_223.jpg
+cartoon/elephant/pic_223.jpg
 Level of details: low
 Edges: neat
 Color saturation: high
@@ -1483,7 +1484,7 @@ Text: yes, wite at bottom-left
 Texture: no
 Perspective: unrealistic
 135
-Project1/data/PACS/kfold/cartoon/giraffe/pic_313.jpg
+cartoon/giraffe/pic_313.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1494,7 +1495,7 @@ Text: yes, big and small ones
 Texture: no
 Perspective: realistic
 136
-Project1/data/PACS/kfold/cartoon/elephant/pic_051.jpg
+cartoon/elephant/pic_051.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1505,7 +1506,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 137
-Project1/data/PACS/kfold/cartoon/horse/pic_162.jpg
+cartoon/horse/pic_162.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1516,7 +1517,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 138
-Project1/data/PACS/kfold/cartoon/elephant/pic_246.jpg
+cartoon/elephant/pic_246.jpg
 Level of details: low
 Edges: neat
 Color saturation: high
@@ -1527,7 +1528,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 139
-Project1/data/PACS/kfold/cartoon/dog/pic_294.jpg
+cartoon/dog/pic_294.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1538,7 +1539,7 @@ Text: yes, big transparent at bottom
 Texture: no
 Perspective: unrealistic
 140
-Project1/data/PACS/kfold/cartoon/horse/pic_252.jpg
+cartoon/horse/pic_252.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid-high
@@ -1549,7 +1550,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: realistic
 141
-Project1/data/PACS/kfold/cartoon/person/pic_214.jpg
+cartoon/person/pic_214.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1560,7 +1561,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: unrealistic
 142
-Project1/data/PACS/kfold/cartoon/elephant/pic_252.jpg
+cartoon/elephant/pic_252.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1571,7 +1572,7 @@ Text: yes, black at the left
 Texture: no
 Perspective: unrealistic
 143
-Project1/data/PACS/kfold/cartoon/person/pic_170.jpg
+cartoon/person/pic_170.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1582,7 +1583,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 144
-Project1/data/PACS/kfold/cartoon/dog/pic_384.jpg
+cartoon/dog/pic_384.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1593,7 +1594,7 @@ Text: yes, transparent inthe middle
 Texture: no
 Perspective: unrealistic
 145
-Project1/data/PACS/kfold/cartoon/dog/pic_287.jpg
+cartoon/dog/pic_287.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1604,7 +1605,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: unrealistic
 146
-Project1/data/PACS/kfold/cartoon/elephant/pic_049.jpg
+cartoon/elephant/pic_049.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1615,7 +1616,7 @@ Text: yes, transparent in the middle and bottom
 Texture: no
 Perspective: unrealistic
 147
-Project1/data/PACS/kfold/cartoon/house/pic_163.jpg
+cartoon/house/pic_163.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid
@@ -1626,7 +1627,7 @@ Text: no
 Texture: no
 Perspective: realistic
 148
-Project1/data/PACS/kfold/cartoon/giraffe/pic_017.jpg
+cartoon/giraffe/pic_017.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1637,7 +1638,7 @@ Text: no
 Texture: no
 Perspective: realistic
 149
-Project1/data/PACS/kfold/cartoon/person/pic_129.jpg
+cartoon/person/pic_129.jpg
 Level of details: low
 Edges: neat
 Color saturation: mid
@@ -1648,7 +1649,7 @@ Text: transparent all over the image
 Texture: no
 Perspective: unrealistic
 150
-Project1/data/PACS/kfold/cartoon/giraffe/pic_273.jpg
+cartoon/giraffe/pic_273.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1659,7 +1660,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 151
-Project1/data/PACS/kfold/cartoon/dog/pic_024.jpg
+cartoon/dog/pic_024.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1670,7 +1671,7 @@ Text: no
 Texture: no
 Perspective: realistic
 152
-Project1/data/PACS/kfold/cartoon/giraffe/pic_020.jpg
+cartoon/giraffe/pic_020.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1681,7 +1682,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 153
-Project1/data/PACS/kfold/cartoon/giraffe/pic_221.jpg
+cartoon/giraffe/pic_221.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1692,7 +1693,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 154
-Project1/data/PACS/kfold/cartoon/person/pic_259.jpg
+cartoon/person/pic_259.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1703,7 +1704,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: unrealistic
 155
-Project1/data/PACS/kfold/cartoon/dog/pic_045.jpg
+cartoon/dog/pic_045.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1714,7 +1715,7 @@ Text: yes, small at bottom-righ
 Texture: no
 Perspective: realistic
 156
-Project1/data/PACS/kfold/cartoon/dog/pic_114.jpg
+cartoon/dog/pic_114.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1725,7 +1726,7 @@ Text: yes, bottom and transparent in the middle
 Texture: no
 Perspective: unrealistic
 157
-Project1/data/PACS/kfold/cartoon/horse/pic_207.jpg
+cartoon/horse/pic_207.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1736,7 +1737,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: unrealistic
 158
-Project1/data/PACS/kfold/cartoon/house/pic_138.jpg
+cartoon/house/pic_138.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1747,7 +1748,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: unrealistic
 159
-Project1/data/PACS/kfold/cartoon/elephant/pic_105.jpg
+cartoon/elephant/pic_105.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid
@@ -1758,7 +1759,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 160
-Project1/data/PACS/kfold/cartoon/horse/pic_245.jpg
+cartoon/horse/pic_245.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1769,7 +1770,7 @@ Text: yes, like comic books
 Texture: no
 Perspective: unrealistic
 161
-Project1/data/PACS/kfold/cartoon/person/pic_135.jpg
+cartoon/person/pic_135.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1780,7 +1781,7 @@ Text: yes, transparent in the middle
 Texture: no
 Perspective: unrealistic
 162
-Project1/data/PACS/kfold/cartoon/horse/pic_305.jpg
+cartoon/horse/pic_305.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1791,7 +1792,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 163
-Project1/data/PACS/kfold/cartoon/dog/pic_063.jpg
+cartoon/dog/pic_063.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1802,7 +1803,7 @@ Text: no
 Texture: no
 Perspective: realistic
 164
-Project1/data/PACS/kfold/cartoon/elephant/pic_228.jpg
+cartoon/elephant/pic_228.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1813,7 +1814,7 @@ Text: yes, transparent in the middle
 Texture: no
 Perspective: realistic
 165
-Project1/data/PACS/kfold/cartoon/giraffe/pic_224.jpg
+cartoon/giraffe/pic_224.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1824,7 +1825,7 @@ Text: yes, transparent in the middle and bottom
 Texture: no
 Perspective: unrealistic
 166
-Project1/data/PACS/kfold/cartoon/dog/pic_019.jpg
+cartoon/dog/pic_019.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1835,7 +1836,7 @@ Text: yes, bottom-right
 Texture: some bubble
 Perspective: realistic
 167
-Project1/data/PACS/kfold/cartoon/person/pic_097.jpg
+cartoon/person/pic_097.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1846,7 +1847,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 168
-Project1/data/PACS/kfold/cartoon/horse/pic_201.jpg
+cartoon/horse/pic_201.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1857,7 +1858,7 @@ Text: yes, transparent in the middle and bottom
 Texture: no
 Perspective: unrealistic
 169
-Project1/data/PACS/kfold/cartoon/elephant/pic_440.jpg
+cartoon/elephant/pic_440.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1868,7 +1869,7 @@ Text: yes, small and black in some parts of the image
 Texture: no
 Perspective: realistic
 170
-Project1/data/PACS/kfold/cartoon/house/pic_230.jpg
+cartoon/house/pic_230.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1879,7 +1880,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 171
-Project1/data/PACS/kfold/cartoon/person/pic_103.jpg
+cartoon/person/pic_103.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1890,7 +1891,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 172
-Project1/data/PACS/kfold/cartoon/house/pic_292.jpg
+cartoon/house/pic_292.jpg
 Level of details: mid
 Edges: neat
 Color saturation: high
@@ -1901,7 +1902,7 @@ Text: yes, transparent in the middle
 Texture: no
 Perspective: unrealistic
 173
-Project1/data/PACS/kfold/cartoon/person/pic_112.jpg
+cartoon/person/pic_112.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1912,7 +1913,7 @@ Text: yes, small black
 Texture: no
 Perspective: unrealistic
 174
-Project1/data/PACS/kfold/cartoon/dog/pic_286.jpg
+cartoon/dog/pic_286.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1923,7 +1924,7 @@ Text: yes, transparent in the middle and bottom
 Texture: no
 Perspective: unrealistic
 175
-Project1/data/PACS/kfold/cartoon/dog/pic_091.jpg
+cartoon/dog/pic_091.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1934,7 +1935,7 @@ Text: yes, transparent all over the image
 Texture: no
 Perspective: realistic
 176
-Project1/data/PACS/kfold/cartoon/elephant/pic_409.jpg
+cartoon/elephant/pic_409.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1945,7 +1946,7 @@ Text: yes, big transparent in the middle
 Texture: no
 Perspective: unrealistic
 177
-Project1/data/PACS/kfold/cartoon/person/pic_094.jpg
+cartoon/person/pic_094.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid-high
@@ -1956,7 +1957,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 178
-Project1/data/PACS/kfold/cartoon/elephant/pic_030.jpg
+cartoon/elephant/pic_030.jpg
 Level of details: mid
 Edges: neat
 Color saturation: mid
@@ -1967,7 +1968,7 @@ Text: no
 Texture: no
 Perspective: realistic
 179
-Project1/data/PACS/kfold/cartoon/giraffe/pic_168.jpg
+cartoon/giraffe/pic_168.jpg
 Level of details: low
 Edges: not so neat
 Color saturation: mid
@@ -1978,7 +1979,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 180
-Project1/data/PACS/kfold/photo/elephant/n02503517_8222.jpg
+photo/elephant/n02503517_8222.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -1989,7 +1990,7 @@ Text: no
 Texture: no
 Perspective: realistic
 181
-Project1/data/PACS/kfold/photo/person/253_0119.jpg
+photo/person/253_0119.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: mid
@@ -2000,7 +2001,7 @@ Text: no
 Texture: no
 Perspective: realistic
 182
-Project1/data/PACS/kfold/photo/dog/n02103406_8421.jpg
+photo/dog/n02103406_8421.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2011,7 +2012,7 @@ Text: no
 Texture: no
 Perspective: realistic
 183
-Project1/data/PACS/kfold/photo/person/253_0001.jpg
+photo/person/253_0001.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2022,7 +2023,7 @@ Text: yes, on the books
 Texture: no
 Perspective: realistic
 184
-Project1/data/PACS/kfold/photo/person/253_0039.jpg
+photo/person/253_0039.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2033,7 +2034,7 @@ Text: no
 Texture: no
 Perspective: realistic
 185
-Project1/data/PACS/kfold/photo/giraffe/084_0034.jpg
+photo/giraffe/084_0034.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2044,7 +2045,7 @@ Text: yes, transparent at the top
 Texture: no
 Perspective: realistic
 186
-Project1/data/PACS/kfold/photo/person/253_0014.jpg
+photo/person/253_0014.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2055,7 +2056,7 @@ Text: no
 Texture: no
 Perspective: realistic
 187
-Project1/data/PACS/kfold/photo/person/253_0418.jpg
+photo/person/253_0418.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2066,7 +2067,7 @@ Text: no
 Texture: no
 Perspective: realistic
 188
-Project1/data/PACS/kfold/photo/giraffe/n02439033_11130.jpg
+photo/giraffe/n02439033_11130.jpg
 Level of details: high
 Edges: defined
 Color saturation: low
@@ -2077,7 +2078,7 @@ Text: no
 Texture: no
 Perspective: realistic
 189
-Project1/data/PACS/kfold/photo/elephant/064_0020.jpg
+photo/elephant/064_0020.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2088,7 +2089,7 @@ Text: no
 Texture: no
 Perspective: realistic
 190
-Project1/data/PACS/kfold/photo/person/253_0005.jpg
+photo/person/253_0005.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2099,7 +2100,7 @@ Text: no
 Texture: no
 Perspective: realistic
 191
-Project1/data/PACS/kfold/photo/house/pic_055.jpg
+photo/house/pic_055.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2110,7 +2111,7 @@ Text: no
 Texture: no
 Perspective: realistic
 192
-Project1/data/PACS/kfold/photo/person/253_0169.jpg
+photo/person/253_0169.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2121,7 +2122,7 @@ Text: no
 Texture: no
 Perspective: realistic
 193
-Project1/data/PACS/kfold/photo/person/253_0235.jpg
+photo/person/253_0235.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2132,7 +2133,7 @@ Text: no
 Texture: no
 Perspective: realistic
 194
-Project1/data/PACS/kfold/photo/person/253_0031.jpg
+photo/person/253_0031.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2143,7 +2144,7 @@ Text: no
 Texture: no
 Perspective: realistic
 195
-Project1/data/PACS/kfold/photo/dog/n02106662_2740.jpg
+photo/dog/n02106662_2740.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2154,7 +2155,7 @@ Text: no
 Texture: no
 Perspective: realistic
 196
-Project1/data/PACS/kfold/photo/elephant/n02503517_79.jpg
+photo/elephant/n02503517_79.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2165,7 +2166,7 @@ Text: no
 Texture: no
 Perspective: realistic
 197
-Project1/data/PACS/kfold/photo/giraffe/n02439033_14148.jpg
+photo/giraffe/n02439033_14148.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: mid
@@ -2176,7 +2177,7 @@ Text: no
 Texture: no
 Perspective: realistic
 198
-Project1/data/PACS/kfold/photo/house/pic_285.jpg
+photo/house/pic_285.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2187,7 +2188,7 @@ Text: no
 Texture: no
 Perspective: realistic
 199
-Project1/data/PACS/kfold/photo/house/pic_224.jpg
+photo/house/pic_224.jpg
 Level of details: high
 Edges: defined
 Color saturation: high
@@ -2198,7 +2199,7 @@ Text: no
 Texture: no
 Perspective: realistic
 200
-Project1/data/PACS/kfold/photo/horse/105_0270.jpg
+photo/horse/105_0270.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: high
@@ -2209,7 +2210,7 @@ Text: no
 Texture: no
 Perspective: realistic
 201
-Project1/data/PACS/kfold/photo/person/253_0332.jpg
+photo/person/253_0332.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2220,7 +2221,7 @@ Text: no
 Texture: no
 Perspective: realistic
 202
-Project1/data/PACS/kfold/photo/person/253_0092.jpg
+photo/person/253_0092.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2231,7 +2232,7 @@ Text: no
 Texture: no
 Perspective: realistic
 203
-Project1/data/PACS/kfold/photo/dog/n02106662_18953.jpg
+photo/dog/n02106662_18953.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2242,7 +2243,7 @@ Text: no
 Texture: no
 Perspective: realistic
 204
-Project1/data/PACS/kfold/photo/guitar/n03272010_392.jpg
+photo/guitar/n03272010_392.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2253,7 +2254,7 @@ Text: no
 Texture: no
 Perspective: realistic
 205
-Project1/data/PACS/kfold/photo/dog/n02109525_18347.jpg
+photo/dog/n02109525_18347.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2264,7 +2265,7 @@ Text: no
 Texture: no
 Perspective: realistic
 206
-Project1/data/PACS/kfold/photo/elephant/n02503517_8518.jpg
+photo/elephant/n02503517_8518.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2275,7 +2276,7 @@ Text: no
 Texture: no
 Perspective: realistic
 207
-Project1/data/PACS/kfold/photo/giraffe/084_0067.jpg
+photo/giraffe/084_0067.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2286,7 +2287,7 @@ Text: no
 Texture: no
 Perspective: realistic
 208
-Project1/data/PACS/kfold/photo/person/253_0395.jpg
+photo/person/253_0395.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2297,7 +2298,7 @@ Text: no
 Texture: no
 Perspective: realistic
 209
-Project1/data/PACS/kfold/photo/dog/056_0029.jpg
+photo/dog/056_0029.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2308,7 +2309,7 @@ Text: no
 Texture: no
 Perspective: realistic
 210
-Project1/data/PACS/kfold/photo/guitar/063_0007.jpg
+photo/guitar/063_0007.jpg
 Level of details: high
 Edges: defined
 Color saturation: high
@@ -2319,7 +2320,7 @@ Text: no
 Texture: no
 Perspective: realistic
 211
-Project1/data/PACS/kfold/photo/house/pic_219.jpg
+photo/house/pic_219.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2330,7 +2331,7 @@ Text: no
 Texture: no
 Perspective: realistic
 212
-Project1/data/PACS/kfold/photo/guitar/063_0030.jpg
+photo/guitar/063_0030.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2341,7 +2342,7 @@ Text: no
 Texture: no
 Perspective: realistic
 213
-Project1/data/PACS/kfold/photo/dog/056_0016.jpg
+photo/dog/056_0016.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: mid
@@ -2352,7 +2353,7 @@ Text: no
 Texture: no
 Perspective: realistic
 214
-Project1/data/PACS/kfold/photo/dog/n02103406_865.jpg
+photo/dog/n02103406_865.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2363,7 +2364,7 @@ Text: no
 Texture: no
 Perspective: realistic
 215
-Project1/data/PACS/kfold/photo/person/253_0424.jpg
+photo/person/253_0424.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2374,7 +2375,7 @@ Text: yes, a paper on the background
 Texture: no
 Perspective: realistic
 216
-Project1/data/PACS/kfold/photo/house/pic_094.jpg
+photo/house/pic_094.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid-high
@@ -2385,7 +2386,7 @@ Text: no
 Texture: no
 Perspective: realistic
 217
-Project1/data/PACS/kfold/photo/guitar/n03467517_24525.jpg
+photo/guitar/n03467517_24525.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: mid
@@ -2396,7 +2397,7 @@ Text: no
 Texture: no
 Perspective: realistic
 218
-Project1/data/PACS/kfold/photo/guitar/063_0114.jpg
+photo/guitar/063_0114.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: high
@@ -2407,7 +2408,7 @@ Text: no
 Texture: no
 Perspective: realistic
 219
-Project1/data/PACS/kfold/photo/house/pic_053.jpg
+photo/house/pic_053.jpg
 Level of details: high
 Edges: defined
 Color saturation: high
@@ -2418,7 +2419,7 @@ Text: no
 Texture: no
 Perspective: realistic
 220
-Project1/data/PACS/kfold/photo/giraffe/084_0039.jpg
+photo/giraffe/084_0039.jpg
 Level of details: mid
 Edges: undefined
 Color saturation: mid
@@ -2429,7 +2430,7 @@ Text: no
 Texture: no
 Perspective: realistic
 221
-Project1/data/PACS/kfold/photo/giraffe/084_0040.jpg
+photo/giraffe/084_0040.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2440,7 +2441,7 @@ Text: no
 Texture: no
 Perspective: realistic
 222
-Project1/data/PACS/kfold/photo/person/253_0423.jpg
+photo/person/253_0423.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2451,7 +2452,7 @@ Text: no
 Texture: no
 Perspective: realistic
 223
-Project1/data/PACS/kfold/photo/guitar/n02676566_6402.jpg
+photo/guitar/n02676566_6402.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2462,7 +2463,7 @@ Text: signature
 Texture: no
 Perspective: realistic
 224
-Project1/data/PACS/kfold/photo/house/pic_288.jpg
+photo/house/pic_288.jpg
 Level of details: high
 Edges: defined
 Color saturation: high
@@ -2473,7 +2474,7 @@ Text: no
 Texture: no
 Perspective: realistic
 225
-Project1/data/PACS/kfold/photo/horse/105_0076.jpg
+photo/horse/105_0076.jpg
 Level of details: high
 Edges: not so defined
 Color saturation: high
@@ -2484,7 +2485,7 @@ Text: no
 Texture: no
 Perspective: realistic
 226
-Project1/data/PACS/kfold/photo/dog/056_0048.jpg
+photo/dog/056_0048.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2495,7 +2496,7 @@ Text: no
 Texture: no
 Perspective: realistic
 227
-Project1/data/PACS/kfold/photo/guitar/063_0068.jpg
+photo/guitar/063_0068.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2506,7 +2507,7 @@ Text: yes, some white writing
 Texture: no
 Perspective: realistic
 228
-Project1/data/PACS/kfold/photo/house/pic_128.jpg
+photo/house/pic_128.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2517,7 +2518,7 @@ Text: no
 Texture: no
 Perspective: realistic
 229
-Project1/data/PACS/kfold/photo/guitar/063_0051.jpg
+photo/guitar/063_0051.jpg
 Level of details: high
 Edges: defined
 Color saturation: mid
@@ -2528,7 +2529,7 @@ Text: no
 Texture: no
 Perspective: realistic
 230
-Project1/data/PACS/kfold/sketch/horse/n02374451_2478-1.png
+sketch/horse/n02374451_2478-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2539,7 +2540,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 231
-Project1/data/PACS/kfold/sketch/dog/n02106662_24577-1.png
+sketch/dog/n02106662_24577-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2550,7 +2551,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 232
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_12680-5.png
+sketch/giraffe/n02439033_12680-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2561,7 +2562,7 @@ Text: no
 Texture: no
 Perspective: realistic
 233
-Project1/data/PACS/kfold/sketch/guitar/7603.png
+sketch/guitar/7603.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2572,7 +2573,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 234
-Project1/data/PACS/kfold/sketch/elephant/n02503517_4247-6.png
+sketch/elephant/n02503517_4247-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2583,7 +2584,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 235
-Project1/data/PACS/kfold/sketch/horse/n02374451_12792-8.png
+sketch/horse/n02374451_12792-8.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2594,7 +2595,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 236
-Project1/data/PACS/kfold/sketch/dog/n02106662_13912-2.png
+sketch/dog/n02106662_13912-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2605,7 +2606,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 237
-Project1/data/PACS/kfold/sketch/guitar/n03272010_6809-3.png
+sketch/guitar/n03272010_6809-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2616,7 +2617,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 238
-Project1/data/PACS/kfold/sketch/dog/n02103406_2209-8.png
+sketch/dog/n02103406_2209-8.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2627,7 +2628,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 239
-Project1/data/PACS/kfold/sketch/elephant/n02503517_753-5.png
+sketch/elephant/n02503517_753-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2638,7 +2639,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 240
-Project1/data/PACS/kfold/sketch/guitar/n02676566_7830-5.png
+sketch/guitar/n02676566_7830-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2649,7 +2650,7 @@ Text: no
 Texture: no
 Perspective: realistic
 241
-Project1/data/PACS/kfold/sketch/elephant/5941.png
+sketch/elephant/5941.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2660,7 +2661,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 242
-Project1/data/PACS/kfold/sketch/elephant/n02503517_5267-4.png
+sketch/elephant/n02503517_5267-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2671,7 +2672,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 243
-Project1/data/PACS/kfold/sketch/guitar/n02676566_9062-1.png
+sketch/guitar/n02676566_9062-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2682,7 +2683,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 244
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_14781-2.png
+sketch/giraffe/n02439033_14781-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2693,7 +2694,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 245
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_10130-2.png
+sketch/giraffe/n02439033_10130-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2704,7 +2705,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 246
-Project1/data/PACS/kfold/sketch/guitar/n03272010_5483-4.png
+sketch/guitar/n03272010_5483-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2715,7 +2716,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 247
-Project1/data/PACS/kfold/sketch/dog/n02103406_3299-9.png
+sketch/dog/n02103406_3299-9.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2726,7 +2727,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 248
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_866-4.png
+sketch/giraffe/n02439033_866-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2737,7 +2738,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 249
-Project1/data/PACS/kfold/sketch/guitar/n02676566_11573-5.png
+sketch/guitar/n02676566_11573-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2748,7 +2749,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 250
-Project1/data/PACS/kfold/sketch/guitar/n03272010_6737-3.png
+sketch/guitar/n03272010_6737-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2759,7 +2760,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 251
-Project1/data/PACS/kfold/sketch/elephant/n02503517_3808-5.png
+sketch/elephant/n02503517_3808-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2770,7 +2771,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 252
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_12930-2.png
+sketch/giraffe/n02439033_12930-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2781,7 +2782,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 253
-Project1/data/PACS/kfold/sketch/giraffe/7415.png
+sketch/giraffe/7415.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2792,7 +2793,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 254
-Project1/data/PACS/kfold/sketch/horse/n02374451_54-2.png
+sketch/horse/n02374451_54-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2803,7 +2804,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 255
-Project1/data/PACS/kfold/sketch/horse/8505.png
+sketch/horse/8505.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2814,7 +2815,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 256
-Project1/data/PACS/kfold/sketch/dog/n02106662_2740-4.png
+sketch/dog/n02106662_2740-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2825,7 +2826,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 257
-Project1/data/PACS/kfold/sketch/dog/n02103406_7368-7.png
+sketch/dog/n02103406_7368-7.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2836,7 +2837,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 258
-Project1/data/PACS/kfold/sketch/elephant/n02503517_10275-2.png
+sketch/elephant/n02503517_10275-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2847,7 +2848,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 259
-Project1/data/PACS/kfold/sketch/dog/n02103406_865-2.png
+sketch/dog/n02103406_865-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2858,7 +2859,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 260
-Project1/data/PACS/kfold/sketch/elephant/5950.png
+sketch/elephant/5950.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2869,7 +2870,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 261
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_8875-5.png
+sketch/giraffe/n02439033_8875-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2880,7 +2881,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 262
-Project1/data/PACS/kfold/sketch/elephant/n02503517_2804-1.png
+sketch/elephant/n02503517_2804-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2891,7 +2892,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 263
-Project1/data/PACS/kfold/sketch/elephant/n02503517_5267-2.png
+sketch/elephant/n02503517_5267-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2902,7 +2903,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 264
-Project1/data/PACS/kfold/sketch/elephant/n02503517_3108-5.png
+sketch/elephant/n02503517_3108-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2913,7 +2914,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 265
-Project1/data/PACS/kfold/sketch/elephant/n02503517_5117-4.png
+sketch/elephant/n02503517_5117-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2924,7 +2925,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 266
-Project1/data/PACS/kfold/sketch/guitar/n02676566_9661-4.png
+sketch/guitar/n02676566_9661-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2935,7 +2936,7 @@ Text: no
 Texture: no
 Perspective: realistic
 267
-Project1/data/PACS/kfold/sketch/horse/8512.png
+sketch/horse/8512.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2946,7 +2947,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 268
-Project1/data/PACS/kfold/sketch/guitar/n03272010_392-3.png
+sketch/guitar/n03272010_392-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2957,7 +2958,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 269
-Project1/data/PACS/kfold/sketch/elephant/n02503517_5892-2.png
+sketch/elephant/n02503517_5892-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2968,7 +2969,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 270
-Project1/data/PACS/kfold/sketch/elephant/n02503517_3108-9.png
+sketch/elephant/n02503517_3108-9.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2979,7 +2980,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 271
-Project1/data/PACS/kfold/sketch/dog/n02109525_3782-1.png
+sketch/dog/n02109525_3782-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -2990,7 +2991,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 272
-Project1/data/PACS/kfold/sketch/guitar/n02676566_6948-1.png
+sketch/guitar/n02676566_6948-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3001,7 +3002,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 273
-Project1/data/PACS/kfold/sketch/dog/n02109525_13700-5.png
+sketch/dog/n02109525_13700-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3012,7 +3013,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 274
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_991-9.png
+sketch/giraffe/n02439033_991-9.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3023,7 +3024,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 275
-Project1/data/PACS/kfold/sketch/horse/n02374451_12200-1.png
+sketch/horse/n02374451_12200-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3034,7 +3035,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 276
-Project1/data/PACS/kfold/sketch/guitar/n03467517_12925-4.png
+sketch/guitar/n03467517_12925-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3045,7 +3046,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 277
-Project1/data/PACS/kfold/sketch/elephant/n02503517_10300-4.png
+sketch/elephant/n02503517_10300-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3056,7 +3057,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 278
-Project1/data/PACS/kfold/sketch/guitar/n02676566_330-1.png
+sketch/guitar/n02676566_330-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3067,7 +3068,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 279
-Project1/data/PACS/kfold/sketch/elephant/n02503517_4247-9.png
+sketch/elephant/n02503517_4247-9.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3078,7 +3079,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 280
-Project1/data/PACS/kfold/sketch/dog/n02103406_7368-10.png
+sketch/dog/n02103406_7368-10.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3089,7 +3090,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 281
-Project1/data/PACS/kfold/sketch/guitar/n03272010_7000-3.png
+sketch/guitar/n03272010_7000-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3100,7 +3101,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 282
-Project1/data/PACS/kfold/sketch/dog/n02109525_12875-5.png
+sketch/dog/n02109525_12875-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3111,7 +3112,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 283
-Project1/data/PACS/kfold/sketch/guitar/n03272010_6650-6.png
+sketch/guitar/n03272010_6650-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3122,7 +3123,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 284
-Project1/data/PACS/kfold/sketch/guitar/n03272010_12151-5.png
+sketch/guitar/n03272010_12151-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3133,7 +3134,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 285
-Project1/data/PACS/kfold/sketch/guitar/n03467517_22374-3.png
+sketch/guitar/n03467517_22374-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3144,7 +3145,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 286
-Project1/data/PACS/kfold/sketch/dog/n02103406_5224-6.png
+sketch/dog/n02103406_5224-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3155,7 +3156,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 287
-Project1/data/PACS/kfold/sketch/guitar/n03272010_7390-1.png
+sketch/guitar/n03272010_7390-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3166,7 +3167,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 288
-Project1/data/PACS/kfold/sketch/dog/n02103406_5035-2.png
+sketch/dog/n02103406_5035-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3177,7 +3178,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 289
-Project1/data/PACS/kfold/sketch/elephant/n02503517_6232-1.png
+sketch/elephant/n02503517_6232-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3188,7 +3189,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 290
-Project1/data/PACS/kfold/sketch/horse/n02374451_2733-7.png
+sketch/horse/n02374451_2733-7.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3199,7 +3200,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 291
-Project1/data/PACS/kfold/sketch/horse/n02374451_8526-1.png
+sketch/horse/n02374451_8526-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3210,7 +3211,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 292
-Project1/data/PACS/kfold/sketch/elephant/n02503517_2802-1.png
+sketch/elephant/n02503517_2802-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3221,7 +3222,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 293
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_14872-1.png
+sketch/giraffe/n02439033_14872-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3232,7 +3233,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 294
-Project1/data/PACS/kfold/sketch/horse/n02374451_2372-4.png
+sketch/horse/n02374451_2372-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3243,7 +3244,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 295
-Project1/data/PACS/kfold/sketch/elephant/n02503517_6937-3.png
+sketch/elephant/n02503517_6937-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3254,7 +3255,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 296
-Project1/data/PACS/kfold/sketch/horse/n02374451_16194-5.png
+sketch/horse/n02374451_16194-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3265,7 +3266,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 297
-Project1/data/PACS/kfold/sketch/person/12209.png
+sketch/person/12209.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3276,7 +3277,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 298
-Project1/data/PACS/kfold/sketch/elephant/n02503517_10275-6.png
+sketch/elephant/n02503517_10275-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3287,7 +3288,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 299
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_221-2.png
+sketch/giraffe/n02439033_221-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3298,7 +3299,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 300
-Project1/data/PACS/kfold/sketch/dog/5287.png
+sketch/dog/5287.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3309,7 +3310,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 301
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_10130-5.png
+sketch/giraffe/n02439033_10130-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3320,7 +3321,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 302
-Project1/data/PACS/kfold/sketch/dog/n02103406_3299-4.png
+sketch/dog/n02103406_3299-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3331,7 +3332,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 303
-Project1/data/PACS/kfold/sketch/elephant/n02503517_6937-5.png
+sketch/elephant/n02503517_6937-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3342,7 +3343,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 304
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_10491-5.png
+sketch/giraffe/n02439033_10491-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3353,7 +3354,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 305
-Project1/data/PACS/kfold/sketch/elephant/n02503517_1359-3.png
+sketch/elephant/n02503517_1359-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3364,7 +3365,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 306
-Project1/data/PACS/kfold/sketch/person/12166.png
+sketch/person/12166.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3375,7 +3376,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 307
-Project1/data/PACS/kfold/sketch/guitar/n03272010_5875-5.png
+sketch/guitar/n03272010_5875-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3386,7 +3387,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 308
-Project1/data/PACS/kfold/sketch/guitar/n03272010_5483-6.png
+sketch/guitar/n03272010_5483-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3397,7 +3398,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 309
-Project1/data/PACS/kfold/sketch/guitar/n03272010_6291-3.png
+sketch/guitar/n03272010_6291-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3408,7 +3409,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 310
-Project1/data/PACS/kfold/sketch/guitar/n02676566_4189-3.png
+sketch/guitar/n02676566_4189-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3419,7 +3420,7 @@ Text: no
 Texture: no
 Perspective: realistic
 311
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_569-2.png
+sketch/giraffe/n02439033_569-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3430,7 +3431,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 312
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_8846-5.png
+sketch/giraffe/n02439033_8846-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3441,7 +3442,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 313
-Project1/data/PACS/kfold/sketch/dog/5314.png
+sketch/dog/5314.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3452,7 +3453,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 314
-Project1/data/PACS/kfold/sketch/dog/5296.png
+sketch/dog/5296.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3463,7 +3464,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 315
-Project1/data/PACS/kfold/sketch/house/8861.png
+sketch/house/8861.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3474,7 +3475,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 316
-Project1/data/PACS/kfold/sketch/elephant/n02503517_792-1.png
+sketch/elephant/n02503517_792-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3485,7 +3486,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 317
-Project1/data/PACS/kfold/sketch/elephant/n02503517_1292-5.png
+sketch/elephant/n02503517_1292-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3496,7 +3497,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 318
-Project1/data/PACS/kfold/sketch/horse/n02374451_14738-4.png
+sketch/horse/n02374451_14738-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3507,7 +3508,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 319
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_1508-1.png
+sketch/giraffe/n02439033_1508-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3518,7 +3519,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 320
-Project1/data/PACS/kfold/sketch/horse/n02374451_15453-2.png
+sketch/horse/n02374451_15453-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3529,7 +3530,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 321
-Project1/data/PACS/kfold/sketch/elephant/n02503517_1852-2.png
+sketch/elephant/n02503517_1852-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3540,7 +3541,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 322
-Project1/data/PACS/kfold/sketch/elephant/n02503517_6479-4.png
+sketch/elephant/n02503517_6479-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3551,7 +3552,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 323
-Project1/data/PACS/kfold/sketch/horse/n02374451_8269-5.png
+sketch/horse/n02374451_8269-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3562,7 +3563,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 324
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_11845-4.png
+sketch/giraffe/n02439033_11845-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3573,7 +3574,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 325
-Project1/data/PACS/kfold/sketch/elephant/n02503517_6043-6.png
+sketch/elephant/n02503517_6043-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3584,7 +3585,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 326
-Project1/data/PACS/kfold/sketch/dog/n02109525_8457-4.png
+sketch/dog/n02109525_8457-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3595,7 +3596,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 327
-Project1/data/PACS/kfold/sketch/horse/n02374451_2233-7.png
+sketch/horse/n02374451_2233-7.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3606,7 +3607,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 328
-Project1/data/PACS/kfold/sketch/guitar/n03272010_6662-2.png
+sketch/guitar/n03272010_6662-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3617,7 +3618,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 329
-Project1/data/PACS/kfold/sketch/elephant/n02503517_5117-3.png
+sketch/elephant/n02503517_5117-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3628,7 +3629,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 330
-Project1/data/PACS/kfold/sketch/guitar/n02676566_5489-3.png
+sketch/guitar/n02676566_5489-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3639,7 +3640,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 331
-Project1/data/PACS/kfold/sketch/house/8834.png
+sketch/house/8834.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3650,7 +3651,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 332
-Project1/data/PACS/kfold/sketch/dog/n02103406_3538-6.png
+sketch/dog/n02103406_3538-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3661,7 +3662,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 333
-Project1/data/PACS/kfold/sketch/horse/n02374451_8269-2.png
+sketch/horse/n02374451_8269-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3672,7 +3673,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 334
-Project1/data/PACS/kfold/sketch/guitar/n02676566_9254-5.png
+sketch/guitar/n02676566_9254-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3683,7 +3684,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 335
-Project1/data/PACS/kfold/sketch/guitar/n03467517_6423-1.png
+sketch/guitar/n03467517_6423-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3694,7 +3695,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 336
-Project1/data/PACS/kfold/sketch/giraffe/7439.png
+sketch/giraffe/7439.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3705,7 +3706,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 337
-Project1/data/PACS/kfold/sketch/elephant/n02503517_1383-6.png
+sketch/elephant/n02503517_1383-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3716,7 +3717,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 338
-Project1/data/PACS/kfold/sketch/guitar/n02676566_6948-2.png
+sketch/guitar/n02676566_6948-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3727,7 +3728,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 339
-Project1/data/PACS/kfold/sketch/guitar/n02676566_2380-2.png
+sketch/guitar/n02676566_2380-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3738,7 +3739,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 340
-Project1/data/PACS/kfold/sketch/dog/n02103406_8362-5.png
+sketch/dog/n02103406_8362-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3749,7 +3750,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 341
-Project1/data/PACS/kfold/sketch/guitar/n02676566_5489-4.png
+sketch/guitar/n02676566_5489-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3760,7 +3761,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 342
-Project1/data/PACS/kfold/sketch/horse/n02374451_13159-1.png
+sketch/horse/n02374451_13159-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3771,7 +3772,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 343
-Project1/data/PACS/kfold/sketch/dog/n02106662_2377-3.png
+sketch/dog/n02106662_2377-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3782,7 +3783,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 344
-Project1/data/PACS/kfold/sketch/person/12123.png
+sketch/person/12123.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3793,7 +3794,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 345
-Project1/data/PACS/kfold/sketch/horse/n02374451_10809-4.png
+sketch/horse/n02374451_10809-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3804,7 +3805,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 346
-Project1/data/PACS/kfold/sketch/horse/n02374451_10809-5.png
+sketch/horse/n02374451_10809-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3815,7 +3816,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 347
-Project1/data/PACS/kfold/sketch/dog/n02103406_651-5.png
+sketch/dog/n02103406_651-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3826,7 +3827,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 348
-Project1/data/PACS/kfold/sketch/horse/n02374451_11492-1.png
+sketch/horse/n02374451_11492-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3837,7 +3838,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 349
-Project1/data/PACS/kfold/sketch/horse/n02374451_13718-3.png
+sketch/horse/n02374451_13718-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3848,7 +3849,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 350
-Project1/data/PACS/kfold/sketch/guitar/n02676566_659-1.png
+sketch/guitar/n02676566_659-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3859,7 +3860,7 @@ Text: no
 Texture: no
 Perspective: realistic
 351
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_2677-3.png
+sketch/giraffe/n02439033_2677-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3870,7 +3871,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 352
-Project1/data/PACS/kfold/sketch/dog/n02103406_4068-11.png
+sketch/dog/n02103406_4068-11.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3881,7 +3882,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 353
-Project1/data/PACS/kfold/sketch/guitar/n02676566_2866-3.png
+sketch/guitar/n02676566_2866-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3892,7 +3893,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 354
-Project1/data/PACS/kfold/sketch/dog/n02109525_7874-4.png
+sketch/dog/n02109525_7874-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3903,7 +3904,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 355
-Project1/data/PACS/kfold/sketch/person/12152.png
+sketch/person/12152.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3914,7 +3915,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 356
-Project1/data/PACS/kfold/sketch/dog/n02103406_6461-1.png
+sketch/dog/n02103406_6461-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3925,7 +3926,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 357
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_16356-1.png
+sketch/giraffe/n02439033_16356-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3936,7 +3937,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 358
-Project1/data/PACS/kfold/sketch/horse/n02374451_2248-8.png
+sketch/horse/n02374451_2248-8.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3947,7 +3948,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 359
-Project1/data/PACS/kfold/sketch/horse/n02374451_5084-5.png
+sketch/horse/n02374451_5084-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3958,7 +3959,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 360
-Project1/data/PACS/kfold/sketch/horse/n02374451_54-5.png
+sketch/horse/n02374451_54-5.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3969,7 +3970,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 361
-Project1/data/PACS/kfold/sketch/elephant/5932.png
+sketch/elephant/5932.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3980,7 +3981,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 362
-Project1/data/PACS/kfold/sketch/horse/n02374451_12328-10.png
+sketch/horse/n02374451_12328-10.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -3991,7 +3992,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 363
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_16085-4.png
+sketch/giraffe/n02439033_16085-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4002,7 +4003,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 364
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_13868-2.png
+sketch/giraffe/n02439033_13868-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4013,7 +4014,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 365
-Project1/data/PACS/kfold/sketch/house/8855.png
+sketch/house/8855.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4024,7 +4025,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 366
-Project1/data/PACS/kfold/sketch/guitar/n03467517_22785-4.png
+sketch/guitar/n03467517_22785-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4035,7 +4036,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 367
-Project1/data/PACS/kfold/sketch/giraffe/7361.png
+sketch/giraffe/7361.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4046,7 +4047,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 368
-Project1/data/PACS/kfold/sketch/horse/n02374451_12250-6.png
+sketch/horse/n02374451_12250-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4057,7 +4058,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 369
-Project1/data/PACS/kfold/sketch/guitar/7659.png
+sketch/guitar/7659.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4068,7 +4069,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 370
-Project1/data/PACS/kfold/sketch/horse/n02374451_8744-2.png
+sketch/horse/n02374451_8744-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4079,7 +4080,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 371
-Project1/data/PACS/kfold/sketch/dog/n02103406_2209-4.png
+sketch/dog/n02103406_2209-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4090,7 +4091,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 372
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_14497-2.png
+sketch/giraffe/n02439033_14497-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4101,7 +4102,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 373
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_12939-6.png
+sketch/giraffe/n02439033_12939-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4112,7 +4113,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 374
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_15936-6.png
+sketch/giraffe/n02439033_15936-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4123,7 +4124,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 375
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_11845-3.png
+sketch/giraffe/n02439033_11845-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4134,7 +4135,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 376
-Project1/data/PACS/kfold/sketch/dog/n02103406_5563-6.png
+sketch/dog/n02103406_5563-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4145,7 +4146,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 377
-Project1/data/PACS/kfold/sketch/horse/n02374451_14119-6.png
+sketch/horse/n02374451_14119-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4156,7 +4157,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 378
-Project1/data/PACS/kfold/sketch/guitar/n03467517_8929-1.png
+sketch/guitar/n03467517_8929-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4167,7 +4168,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 379
-Project1/data/PACS/kfold/sketch/dog/n02106662_2377-6.png
+sketch/dog/n02106662_2377-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4178,7 +4179,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 380
-Project1/data/PACS/kfold/sketch/horse/n02374451_2248-6.png
+sketch/horse/n02374451_2248-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4189,7 +4190,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 381
-Project1/data/PACS/kfold/sketch/dog/n02103406_6688-2.png
+sketch/dog/n02103406_6688-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4200,7 +4201,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 382
-Project1/data/PACS/kfold/sketch/dog/n02103406_2209-3.png
+sketch/dog/n02103406_2209-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4211,7 +4212,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 383
-Project1/data/PACS/kfold/sketch/horse/n02374451_4818-3.png
+sketch/horse/n02374451_4818-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4222,7 +4223,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 384
-Project1/data/PACS/kfold/sketch/person/12095.png
+sketch/person/12095.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4233,7 +4234,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 385
-Project1/data/PACS/kfold/sketch/elephant/5949.png
+sketch/elephant/5949.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4244,7 +4245,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 386
-Project1/data/PACS/kfold/sketch/elephant/n02503517_4253-2.png
+sketch/elephant/n02503517_4253-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4255,7 +4256,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 387
-Project1/data/PACS/kfold/sketch/dog/n02103406_5456-6.png
+sketch/dog/n02103406_5456-6.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4266,7 +4267,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 388
-Project1/data/PACS/kfold/sketch/person/12188.png
+sketch/person/12188.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4277,7 +4278,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 389
-Project1/data/PACS/kfold/sketch/dog/n02109525_11444-4.png
+sketch/dog/n02109525_11444-4.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4288,7 +4289,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 390
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_13384-1.png
+sketch/giraffe/n02439033_13384-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4299,7 +4300,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 391
-Project1/data/PACS/kfold/sketch/horse/n02374451_2372-2.png
+sketch/horse/n02374451_2372-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4310,7 +4311,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 392
-Project1/data/PACS/kfold/sketch/elephant/n02503517_7592-1.png
+sketch/elephant/n02503517_7592-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4321,7 +4322,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 393
-Project1/data/PACS/kfold/sketch/elephant/n02503517_6611-1.png
+sketch/elephant/n02503517_6611-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4332,7 +4333,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 394
-Project1/data/PACS/kfold/sketch/horse/n02374451_4553-2.png
+sketch/horse/n02374451_4553-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4343,7 +4344,7 @@ Text: yes
 Texture: no
 Perspective: unrealistic
 395
-Project1/data/PACS/kfold/sketch/house/8858.png
+sketch/house/8858.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4354,7 +4355,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 396
-Project1/data/PACS/kfold/sketch/person/12139.png
+sketch/person/12139.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4365,7 +4366,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 397
-Project1/data/PACS/kfold/sketch/horse/n02374451_14233-2.png
+sketch/horse/n02374451_14233-2.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4376,7 +4377,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 398
-Project1/data/PACS/kfold/sketch/giraffe/n02439033_15453-3.png
+sketch/giraffe/n02439033_15453-3.png
 Level of details: low
 Edges: neat
 Color saturation: low
@@ -4387,7 +4388,7 @@ Text: no
 Texture: no
 Perspective: unrealistic
 399
-Project1/data/PACS/kfold/sketch/elephant/n02503517_79-1.png
+sketch/elephant/n02503517_79-1.png
 Level of details: low
 Edges: neat
 Color saturation: low
